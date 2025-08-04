@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-poor_syntax = 2 * #
+f = 6
+print(2*f)
